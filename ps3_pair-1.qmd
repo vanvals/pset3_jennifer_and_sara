@@ -1,6 +1,6 @@
 ---
 title: "30538 Problem Set 3: git pair"
-author: Sara Van Valkenburgh
+author: "Sara Van Valkenburgh & Jennifer Edouard"
 format: 
   pdf:
     keep-tex: true
