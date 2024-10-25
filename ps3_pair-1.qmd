@@ -42,5 +42,5 @@ result = preview_data(data)
 
 print(result[0])
 print(result[1])
-result[1].show()
+result[2].show()
 ```
